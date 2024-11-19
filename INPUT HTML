@@ -1,0 +1,7 @@
+Hello! This is, but a simple trick how YOU can find out your own password in a website!
+
+first, get to the "<input>" directory, there you will most liely find "Type='password'" aswell. choose the "password", and rewrite it as "text", so it looks like this:
+
+<input type="text" name="password">
+
+and there you have your password again!
